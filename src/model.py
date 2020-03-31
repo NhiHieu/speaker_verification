@@ -1,6 +1,4 @@
 # Create model for train and test
-
-
 class Train:
     pass
 
