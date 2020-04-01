@@ -1,1 +1,4 @@
-vend/*
+venv/*
+.idea/
+document/*
+
